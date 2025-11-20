@@ -1,0 +1,44 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.coverage
+.pytest_cache
+htmlcov
+.env
+# Python virtual environments
+.venv/
+venv/
+
+# Node modules (Playwright + frontend tooling)
+node_modules/
+
+# Playwright browsers + cache + downloads
+playwright/
+playwright/.cache/
+test-results/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS trash
+.DS_Store
+
+# Coverage & test cache
+.coverage
+.pytest_cache/
+htmlcov/
+
+# Environment files
+.env
+'
+
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.coverage
+.pytest_cache
+htmlcov
+.env
